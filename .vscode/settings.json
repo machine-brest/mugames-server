@@ -1,0 +1,8 @@
+// Workspace settings
+{
+	"editor.tabSize": 4,
+	"editor.autoClosingBrackets": false,
+	"editor.formatOnType": false,
+	"editor.renderWhitespace": true,
+	"files.trimTrailingWhitespace": true
+}

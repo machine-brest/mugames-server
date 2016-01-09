@@ -1,0 +1,17 @@
+{
+  "http": {
+    "ip": "192.168.1.4",
+    "port": 9000
+  },
+  "storage": {
+    "connectUrl" : "mysql://root:root@localhost:3306/mugames_events",
+    "options": {},
+    "redis": {
+        "host": "localhost",
+        "port": 6375
+    }
+  },
+  "geoip": {
+    "data" : "./lib/geoip/data/GeoIP.dat"
+  }
+}
